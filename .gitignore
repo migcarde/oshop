@@ -48,4 +48,4 @@ Thumbs.db
 # Deployment settings
 /.firebase
 /src/.firebaserc
-.firebase.json
+/src/.firebase.json
